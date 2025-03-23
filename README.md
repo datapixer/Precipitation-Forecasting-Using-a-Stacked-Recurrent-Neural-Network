@@ -1,5 +1,4 @@
-## Precipitation Forecasting Using a Stacked Recurrent Neural Network
-
+## Precipitation Forecasting Using eXtreme Gradient Boosting
 ### Problem Description
 
 #### Accurate, long-term (12-month) rainfall predictions are crucial for mitigating uncertainty in agriculture, risk management, and disease outbreak forecasting, especially in regions vulnerable to El Niño. Leveraging advanced technology and expert meteorologists, we can deliver reliable monthly forecasts that empower proactive decision-making. 
